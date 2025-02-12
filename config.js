@@ -4,7 +4,8 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1133910956548833383", ""], 
-  mongodbUri : "mongodb+srv://7LM:Rimawi.77123@discordbot.g8ejp.mongodb.net/?retryWrites=true&w=majority
+  mongodbUri : "mongodb+srv://7LM:7LM@discordbot.g8ejp.mongodb.net/?retryWrites=true&w=majority"
+
 ",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
