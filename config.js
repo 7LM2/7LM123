@@ -16,10 +16,11 @@ setupFilePath: './commands/setup.json',
   nodes: [
      {
       name: "Koi Node V4",
-  "password": "saher.inzeworld.com",
-  "host": "lava.inzeworld.com",
-  "port": 3128,
+ "password": "NAIGLAVA-dash.techbyte.host",
+  "host": "lavahatry4.techbyte.host",
+  "port": 3000,
   "secure": false
+
 
     },
     {
