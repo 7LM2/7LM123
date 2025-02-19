@@ -25,10 +25,11 @@ setupFilePath: './commands/setup.json',
     },
     {
       name: "ChalresNaig Node",
-      password: "NAIGLAVA-dash.techbyte.host",
-      host: "lavahatry4.techbyte.host",
-      port: 3000,
-      secure: false
+       "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v3.ajieblogs.eu.org",
+  "port": 443,
+  "secure": true
+
     }
   ]
 }
