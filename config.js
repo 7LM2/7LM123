@@ -22,6 +22,7 @@ setupFilePath: './commands/setup.json',
   "secure": false
 
 
+
     },
     {
       name: "ChalresNaig Node",
