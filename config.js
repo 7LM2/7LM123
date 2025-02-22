@@ -16,9 +16,9 @@ setupFilePath: './commands/setup.json',
   nodes: [
      {
       name: "Koi Node V4",
- "password": "NAIGLAVA-dash.techbyte.host",
-  "host": "lavahatry4.techbyte.host",
-  "port": 3000,
+   "password": "charlesnaig-lavalink",
+  "host": "212.227.65.132",
+  "port": 10296,
   "secure": false
 
 
@@ -26,10 +26,10 @@ setupFilePath: './commands/setup.json',
     },
     {
       name: "ChalresNaig Node",
-       "password": "https://dsc.gg/ajidevserver",
-  "host": "lava-v3.ajieblogs.eu.org",
-  "port": 443,
-  "secure": true
+     "password": "saher.inzeworld.com",
+  "host": "lava.inzeworld.com",
+  "port": 3128,
+  "secure": false
 
     }
   ]
