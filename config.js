@@ -27,9 +27,9 @@ setupFilePath: './commands/setup.json',
     },
     {
       name: "ChalresNaig Node",
-     "password": "saher.inzeworld.com",
-  "host": "lava.inzeworld.com",
-  "port": 3128,
+  "password": "charlesnaig-lavalink",
+  "host": "212.227.65.132",
+  "port": 10296,
   "secure": false
 
     }
