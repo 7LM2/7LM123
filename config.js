@@ -16,10 +16,11 @@ setupFilePath: './commands/setup.json',
   nodes: [
      {
       name: "Koi Node V4",
-   "password": "charlesnaig-lavalink",
-  "host": "212.227.65.132",
-  "port": 10296,
+  "password": "saher.inzeworld.com",
+  "host": "lava.inzeworld.com",
+  "port": 3128,
   "secure": false
+
 
 
 
