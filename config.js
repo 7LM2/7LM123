@@ -27,10 +27,11 @@ setupFilePath: './commands/setup.json',
     },
     {
       name: "ChalresNaig Node",
-  "password": "charlesnaig-lavalink",
-  "host": "212.227.65.132",
-  "port": 10296,
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v3.ajieblogs.eu.org",
+  "port": 80,
   "secure": false
+
 
     }
   ]
