@@ -25,26 +25,3 @@ module.exports = {
     }
   ]
 }
-
-     {
-      name: "Koi Node V4",
-  "password": "saher.inzeworld.com",
-  "host": "lava.inzeworld.com",
-  "port": 3128,
-  "secure": false
-
-
-
-
-    },
-    {
-      name: "ChalresNaig Node",
-  "password": "https://dsc.gg/ajidevserver",
-  "host": "lava-v3.ajieblogs.eu.org",
-  "port": 80,
-  "secure": false
-
-
-    }
-  ]
-}
